@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 467.01 179.92">
+  <defs>
+    <style>
+      .Lineas_Color {
+        fill: none;
+        stroke: #3e5160;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 12px;
+      }
+    </style>
+  </defs>
+  <polyline class="Lineas_Color" points="300.24 6 403.89 6 461.01 89.96 403.89 173.92 300.24 173.92"/>
+  <polyline class="Lineas_Color" points="163.12 6 266.77 6 300.24 55.2 323.89 89.96 300.24 124.72 266.77 173.92 163.12 173.92"/>
+  <polygon class="Lineas_Color" points="163.12 124.71 129.65 173.92 6 173.92 6 6 129.65 6 163.12 55.21 186.76 89.96 163.12 124.71"/>
+  <polyline class="Lineas_Color" points="62.26 92.5 76.55 110.19 109.23 69.74"/>
+  <polyline class="Lineas_Color" points="213 92.5 227.3 110.19 259.97 69.74"/>
+  <polyline class="Lineas_Color" points="352.14 92.5 366.43 110.19 399.11 69.74"/>
+</svg>

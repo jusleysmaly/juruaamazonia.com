@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420.18 430.3">
+  <defs>
+    <style>
+      .Lineas_Color {
+        fill: none;
+        stroke: #3e5160;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 12px;
+      }
+    </style>
+  </defs>
+  <line class="Lineas_Color" x1="55.11" y1="181.78" x2="111.25" y2="167.33"/>
+  <line class="Lineas_Color" x1="308.92" y1="167.33" x2="365.06" y2="181.78"/>
+  <path class="Lineas_Color" d="M308.92,199.06V14.11c0-4.48-3.63-8.11-8.11-8.11h-145.51"/>
+  <line class="Lineas_Color" x1="192.99" y1="224.21" x2="227.17" y2="224.21"/>
+  <polyline class="Lineas_Color" points="111.25 50.05 111.25 167.33 111.25 199.06"/>
+  <path class="Lineas_Color" d="M155.3,6v37.05c0,3.87-3.14,7-7.01,7h-37.04L155.3,6Z"/>
+  <polygon class="Lineas_Color" points="171.31 151.86 171.31 176.31 138.34 176.31 138.34 160.35 138.34 116.61 171.31 116.61 171.31 151.86"/>
+  <polygon class="Lineas_Color" points="226.57 146.13 226.57 176.31 193.6 176.31 193.6 146.12 193.6 83.55 226.57 83.55 226.57 146.13"/>
+  <polygon class="Lineas_Color" points="281.83 160.35 281.83 176.31 248.86 176.31 248.86 151.86 248.86 50.05 281.83 50.05 281.83 160.35"/>
+  <polyline class="Lineas_Color" points="210.08 424.3 55.11 350.34 55.11 295.03"/>
+  <polyline class="Lineas_Color" points="365.06 295.03 365.06 350.34 210.08 424.3"/>
+  <line class="Lineas_Color" x1="210.08" y1="424.3" x2="210.08" y2="229.47"/>
+  <path class="Lineas_Color" d="M210.08,229.47l58.1,97.69c.97,1.64,2.98,2.36,4.78,1.7l92.1-33.83,46.51-17.1c2.27-.83,3.27-3.48,2.13-5.6l-48.64-90.55"/>
+  <path class="Lineas_Color" d="M210.08,229.47l-58.09,97.69c-.97,1.64-2.98,2.36-4.78,1.7l-92.1-33.83-46.51-17.1c-2.27-.83-3.27-3.48-2.13-5.6l48.64-90.55"/>
+  <line class="Lineas_Color" x1="320.48" y1="345.35" x2="343.1" y2="334.73"/>
+  <polyline class="Lineas_Color" points="365.06 181.78 308.92 199.06 227.17 224.21 210.08 229.47 192.99 224.21 111.25 199.06 55.11 181.78"/>
+</svg>

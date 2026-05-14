@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 383.56 316.65">
+  <defs>
+    <style>
+      .Lineas_Color {
+        fill: none;
+        stroke: #3e5160;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 12px;
+      }
+    </style>
+  </defs>
+  <polyline class="Lineas_Color" points="191.78 310.65 50.85 243.39 50.85 193.09"/>
+  <polyline class="Lineas_Color" points="332.71 193.09 332.71 243.39 191.78 310.65"/>
+  <line class="Lineas_Color" x1="191.78" y1="310.65" x2="191.78" y2="133.47"/>
+  <path class="Lineas_Color" d="M191.78,133.47l52.83,88.84c.89,1.49,2.72,2.14,4.35,1.54l83.75-30.76,42.3-15.55c2.06-.76,2.98-3.16,1.94-5.09l-44.24-82.34"/>
+  <path class="Lineas_Color" d="M191.78,133.47l-52.82,88.84c-.89,1.49-2.72,2.14-4.35,1.54l-83.76-30.76-42.29-15.55c-2.06-.76-2.98-3.16-1.94-5.09l44.23-82.34"/>
+  <polyline class="Lineas_Color" points="332.71 90.11 332.7 90.11 191.78 133.47 50.85 90.11 191.78 53.82"/>
+  <polyline class="Lineas_Color" points="191.78 107.58 191.78 53.82 332.7 90.11"/>
+  <path class="Lineas_Color" d="M50.85,90.11L6.83,36.73c-1.75-2.13-.58-5.35,2.12-5.85L141.98,6.06c1.18-.22,2.38.16,3.22,1l46.58,46.76"/>
+  <path class="Lineas_Color" d="M332.7,90.11l44.03-53.38c1.75-2.13.58-5.35-2.12-5.85L241.57,6.06c-1.17-.22-2.37.16-3.21,1l-46.58,46.76"/>
+  <line class="Lineas_Color" x1="292.17" y1="238.85" x2="312.74" y2="229.19"/>
+</svg>

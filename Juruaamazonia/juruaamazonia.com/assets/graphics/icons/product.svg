@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 386.42 362.35">
+  <defs>
+    <style>
+      .Lineas_Color {
+        fill: none;
+        stroke: #3e5160;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 12px;
+      }
+    </style>
+  </defs>
+  <path class="Lineas_Color" d="M210.75,6h55.25c2.94,0,5.33,2.39,5.33,5.33v130.33c0,2.94-2.39,5.33-5.33,5.33H120.42c-2.94,0-5.33-2.39-5.33-5.33V11.33c0-2.94,2.39-5.33,5.33-5.33h55.25"/>
+  <polygon class="Lineas_Color" points="210.75 6 210.75 68.09 193.21 59.72 175.67 68.09 175.67 6 210.75 6"/>
+  <line class="Lineas_Color" x1="230.64" y1="123.68" x2="248.39" y2="123.68"/>
+  <path class="Lineas_Color" d="M132.6,147.06h55.25c2.95,0,5.33,2.38,5.33,5.33v130.32c0,2.94-2.38,5.33-5.33,5.33"/>
+  <path class="Lineas_Color" d="M42.28,288.04c-2.95,0-5.33-2.39-5.33-5.33v-130.32c0-2.95,2.38-5.33,5.33-5.33h55.25"/>
+  <polygon class="Lineas_Color" points="132.6 147.06 132.6 209.14 115.06 200.77 97.53 209.14 97.53 147.06 132.6 147.06"/>
+  <line class="Lineas_Color" x1="152.5" y1="264.73" x2="170.24" y2="264.73"/>
+  <path class="Lineas_Color" d="M288.89,147.06h55.25c2.95,0,5.33,2.38,5.33,5.33v130.32c0,2.94-2.38,5.33-5.33,5.33"/>
+  <path class="Lineas_Color" d="M198.57,288.04c-2.95,0-5.33-2.39-5.33-5.33v-130.32c0-2.95,2.38-5.33,5.33-5.33h55.25"/>
+  <polygon class="Lineas_Color" points="288.89 147.06 288.89 209.14 271.36 200.77 253.82 209.14 253.82 147.06 288.89 147.06"/>
+  <line class="Lineas_Color" x1="308.79" y1="264.73" x2="326.53" y2="264.73"/>
+  <polyline class="Lineas_Color" points="23.86 312.81 6 312.81 6 288.04 42.28 288.04 187.85 288.04 198.57 288.04 344.14 288.04 380.42 288.04 380.42 312.81 362.62 312.81"/>
+  <line class="Lineas_Color" x1="171.47" y1="312.81" x2="67.39" y2="312.81"/>
+  <line class="Lineas_Color" x1="319.08" y1="312.81" x2="215" y2="312.81"/>
+  <rect class="Lineas_Color" x="23.86" y="312.81" width="43.53" height="43.54"/>
+  <rect class="Lineas_Color" x="171.47" y="312.81" width="43.53" height="43.54"/>
+  <rect class="Lineas_Color" x="319.08" y="312.81" width="43.54" height="43.54"/>
+</svg>

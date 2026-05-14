@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420.18 420.18">
+  <defs>
+    <style>
+      .Lineas_Color {
+        fill: none;
+        stroke: #3e5160;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 12px;
+      }
+    </style>
+  </defs>
+  <polyline class="Lineas_Color" points="316 143.55 259.23 121.73 210.09 102.85 104.19 143.55"/>
+  <line class="Lineas_Color" x1="157.15" y1="163.9" x2="210.09" y2="184.24"/>
+  <polyline class="Lineas_Color" points="210.09 317.34 104.19 276.64 104.19 143.55 157.14 163.9"/>
+  <polygon class="Lineas_Color" points="316 143.55 316 276.64 210.09 317.34 210.09 184.24 316 143.55"/>
+  <polyline class="Lineas_Color" points="157.14 198.8 157.14 163.9 157.15 163.9 258.99 122.35"/>
+  <line class="Lineas_Color" x1="279.71" y1="268.06" x2="296.97" y2="261.33"/>
+  <polyline class="Lineas_Color" points="197.05 21.78 212.82 6 228.59 21.78"/>
+  <line class="Lineas_Color" x1="212.82" y1="6" x2="212.69" y2="67.35"/>
+  <polyline class="Lineas_Color" points="67.71 86.16 67.71 63.86 90.01 63.86"/>
+  <line class="Lineas_Color" x1="67.71" y1="63.86" x2="110.99" y2="107.32"/>
+  <polyline class="Lineas_Color" points="21.78 223.14 6 207.37 21.78 191.6"/>
+  <line class="Lineas_Color" x1="6" y1="207.37" x2="67.35" y2="207.5"/>
+  <polyline class="Lineas_Color" points="86.16 352.48 63.85 352.48 63.85 330.18"/>
+  <line class="Lineas_Color" x1="63.85" y1="352.48" x2="107.32" y2="309.2"/>
+  <polyline class="Lineas_Color" points="223.14 398.41 207.37 414.18 191.6 398.41"/>
+  <line class="Lineas_Color" x1="207.37" y1="414.18" x2="207.5" y2="352.84"/>
+  <polyline class="Lineas_Color" points="352.48 334.03 352.48 356.33 330.18 356.33"/>
+  <line class="Lineas_Color" x1="352.48" y1="356.33" x2="309.2" y2="312.87"/>
+  <polyline class="Lineas_Color" points="398.41 197.05 414.18 212.82 398.41 228.59"/>
+  <line class="Lineas_Color" x1="414.18" y1="212.82" x2="352.84" y2="212.69"/>
+  <polyline class="Lineas_Color" points="334.03 67.71 356.33 67.71 356.33 90.01"/>
+  <line class="Lineas_Color" x1="356.33" y1="67.71" x2="312.86" y2="110.99"/>
+</svg>

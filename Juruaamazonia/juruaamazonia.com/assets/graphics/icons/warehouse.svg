@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 467.79 390.42">
+  <defs>
+    <style>
+      .Lineas_Color {
+        fill: none;
+        stroke: #3e5160;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 12px;
+      }
+    </style>
+  </defs>
+  <line class="Lineas_Color" x1="426.19" y1="384.42" x2="461.79" y2="384.42"/>
+  <line class="Lineas_Color" x1="231.67" y1="384.42" x2="299.53" y2="384.42"/>
+  <line class="Lineas_Color" x1="6" y1="384.42" x2="41.59" y2="384.42"/>
+  <path class="Lineas_Color" d="M104.82,384.42h-63.23V93.42c0-2.8.84-5.45,2.33-7.67,1.49-2.23,3.62-4.01,6.2-5.08l6.9-2.85L228.32,7.05c1.69-.7,3.48-1.05,5.27-1.05s3.57.35,5.26,1.04l155.15,63.88,23.65,9.74c2.58,1.06,4.72,2.86,6.21,5.08s2.33,4.88,2.33,7.67v291.01h-63.23"/>
+  <polyline class="Lineas_Color" points="362.96 257.57 362.96 190.62 104.82 190.62 104.82 257.57"/>
+  <polyline class="Lineas_Color" points="104.82 190.61 104.82 155.03 104.82 120.4 362.96 120.4 362.96 155.03 362.96 190.62"/>
+  <line class="Lineas_Color" x1="104.82" y1="155.03" x2="362.96" y2="155.03"/>
+  <line class="Lineas_Color" x1="221.28" y1="173.94" x2="246.51" y2="173.94"/>
+  <polyline class="Lineas_Color" points="358.51 56.34 394 70.92 443.23 91.15"/>
+  <polyline class="Lineas_Color" points="109.29 56.34 57.02 77.82 24.58 91.15"/>
+  <polyline class="Lineas_Color" points="168.24 384.42 104.82 384.42 104.82 321"/>
+  <polygon class="Lineas_Color" points="231.67 384.42 168.24 384.42 168.24 321 199.96 321 231.67 321 231.67 384.42"/>
+  <polyline class="Lineas_Color" points="362.96 321 362.96 384.42 299.53 384.42 299.53 321"/>
+  <polygon class="Lineas_Color" points="362.96 321 331.24 321 299.53 321 299.53 257.57 331.24 257.57 362.96 257.57 362.96 321"/>
+  <polygon class="Lineas_Color" points="168.24 321 136.53 321 104.82 321 104.82 257.57 136.53 257.57 168.24 257.57 168.24 321"/>
+  <line class="Lineas_Color" x1="331.24" y1="257.57" x2="331.24" y2="271.3"/>
+  <line class="Lineas_Color" x1="331.24" y1="321" x2="331.24" y2="334.73"/>
+  <line class="Lineas_Color" x1="136.53" y1="257.57" x2="136.53" y2="271.3"/>
+  <line class="Lineas_Color" x1="136.53" y1="321" x2="136.53" y2="334.73"/>
+  <line class="Lineas_Color" x1="199.96" y1="321" x2="199.96" y2="334.73"/>
+</svg>

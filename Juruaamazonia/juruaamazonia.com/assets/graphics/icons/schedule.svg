@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420.18 407.34">
+  <defs>
+    <style>
+      .Lineas_Color {
+        fill: none;
+        stroke: #3e5160;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 12px;
+      }
+    </style>
+  </defs>
+  <path class="Lineas_Color" d="M193.92,26.1c-.12-.85-.19-1.73-.19-2.62,0-9.65,7.82-17.48,17.47-17.48s17.48,7.83,17.48,17.48c0,.89-.07,1.77-.19,2.62"/>
+  <path class="Lineas_Color" d="M353.29,26.1c-.12-.85-.19-1.73-.19-2.62,0-9.65,7.82-17.48,17.47-17.48s17.48,7.83,17.48,17.48c0,.89-.07,1.77-.19,2.62"/>
+  <path class="Lineas_Color" d="M167.59,184.78V41.35c0-8.42,6.83-15.25,15.25-15.25h216.1c8.42,0,15.24,6.83,15.24,15.25v203.87c0,8.43-6.82,15.25-15.24,15.25h-90.64"/>
+  <rect class="Lineas_Color" x="239.27" y="190.63" width="17.29" height="17.29"/>
+  <rect class="Lineas_Color" x="282.25" y="190.63" width="17.28" height="17.29"/>
+  <rect class="Lineas_Color" x="325.22" y="190.63" width="17.29" height="17.29"/>
+  <rect class="Lineas_Color" x="196.3" y="146.8" width="17.28" height="17.29"/>
+  <rect class="Lineas_Color" x="239.27" y="146.8" width="17.29" height="17.29"/>
+  <rect class="Lineas_Color" x="282.25" y="146.8" width="17.28" height="17.29"/>
+  <rect class="Lineas_Color" x="324.57" y="146.8" width="17.28" height="17.29"/>
+  <rect class="Lineas_Color" x="368.2" y="146.8" width="17.29" height="17.29"/>
+  <polyline class="Lineas_Color" points="323.92 103.63 333.21 112.93 342.5 122.22"/>
+  <polyline class="Lineas_Color" points="323.92 122.22 333.21 112.93 342.5 103.63"/>
+  <line class="Lineas_Color" x1="167.59" y1="68.5" x2="414.18" y2="68.5"/>
+  <rect class="Lineas_Color" x="368.2" y="104.28" width="17.29" height="17.29"/>
+  <rect class="Lineas_Color" x="281.59" y="104.28" width="17.29" height="17.29"/>
+  <rect class="Lineas_Color" x="238.62" y="104.28" width="17.28" height="17.29"/>
+  <line class="Lineas_Color" x1="219.94" y1="370.87" x2="111.71" y2="370.87"/>
+  <path class="Lineas_Color" d="M50.73,370.87H14.99c-4.96,0-8.99-4.02-8.99-8.99v-168.11c0-4.97,4.03-8.99,8.99-8.99h195.96c4.97,0,8.99,4.02,8.99,8.99v40.42"/>
+  <path class="Lineas_Color" d="M305.39,370.87h14.24c5.66,0,10.24-4.59,10.24-10.24v-50.99c0-5.38-.79-10.7-2.33-15.79-1.51-5-3.74-9.78-6.64-14.19l-12.6-19.19-7.56-11.51-11.53-17.56c-1.9-2.88-5.11-4.62-8.56-4.62h-53.3c-4.09,0-7.41,3.32-7.41,7.41v136.68h24.48"/>
+  <path class="Lineas_Color" d="M50.73,370.87v-.02c0-16.83,13.65-30.48,30.49-30.48s30.48,13.65,30.48,30.48v.02c-.01,16.83-13.65,30.47-30.48,30.47s-30.48-13.64-30.49-30.47Z"/>
+  <path class="Lineas_Color" d="M244.42,370.87v-.02c0-16.83,13.65-30.48,30.49-30.48s30.48,13.65,30.48,30.48v.02c-.01,16.83-13.66,30.47-30.48,30.47s-30.48-13.64-30.49-30.47Z"/>
+  <path class="Lineas_Color" d="M327.54,293.85h-72.09c-1.58,0-2.87-1.28-2.87-2.87v-39.15c0-1.59,1.29-2.87,2.87-2.87h45.29"/>
+</svg>

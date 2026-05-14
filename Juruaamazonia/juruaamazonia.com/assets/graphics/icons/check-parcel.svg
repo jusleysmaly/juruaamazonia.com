@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 389.03 344.16">
+  <defs>
+    <style>
+      .Lineas_Color {
+        fill: none;
+        stroke: #3e5160;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 12px;
+      }
+    </style>
+  </defs>
+  <polyline class="Lineas_Color" points="6 64.72 87.92 33.24 158.81 6 311.62 64.72"/>
+  <polyline class="Lineas_Color" points="311.62 209.85 311.62 64.72 235.21 94.08 158.81 123.44"/>
+  <line class="Lineas_Color" x1="158.81" y1="315.47" x2="254.53" y2="278.7"/>
+  <polygon class="Lineas_Color" points="6 64.72 6 256.76 158.81 315.47 158.81 123.44 6 64.72"/>
+  <polyline class="Lineas_Color" points="235.21 144.44 235.21 94.08 88.26 34.13"/>
+  <line class="Lineas_Color" x1="58.37" y1="244.37" x2="33.46" y2="234.66"/>
+  <path class="Lineas_Color" d="M311.62,209.85c2.32-.26,4.68-.39,7.07-.39,35.53,0,64.34,28.81,64.34,64.35s-28.81,64.35-64.34,64.35-61.67-26.2-64.16-59.46c-.13-1.61-.19-3.24-.19-4.89,0-33.15,25.07-60.45,57.28-63.96Z"/>
+  <polyline class="Lineas_Color" points="299.58 274.95 313.88 292.64 346.55 252.19"/>
+</svg>
