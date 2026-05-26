@@ -96,7 +96,7 @@ export const copy = {
     title: 'Por que escolher a Juruá Log',
     items: [
       'Especialização em logística na Amazônia',
-      'Experiência com food service e varejo',
+      'Experiência com food service e refeição coletiva',
       'Gestão de cargas de terceiros',
       'Operações customizadas por cliente',
       'Controle de cadeia de frios',
